@@ -7,6 +7,8 @@ It covers hands-on assignments such as form handling, popups, dropdowns, tables,
 
 ---
 
+```
+
 ## Project Structure
 
 selenium-assignment/
@@ -34,7 +36,6 @@ selenium-assignment/
 │ └── screenshots/
 
 
----
 
 ## Dependencies
 
